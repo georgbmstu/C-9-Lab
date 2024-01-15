@@ -1,0 +1,16 @@
+D:\C# Labs\9\lab092\bin\Debug\net6.0-windows\lab092.exe
+D:\C# Labs\9\lab092\bin\Debug\net6.0-windows\lab092.deps.json
+D:\C# Labs\9\lab092\bin\Debug\net6.0-windows\lab092.runtimeconfig.json
+D:\C# Labs\9\lab092\bin\Debug\net6.0-windows\lab092.dll
+D:\C# Labs\9\lab092\bin\Debug\net6.0-windows\lab092.pdb
+D:\C# Labs\9\lab092\obj\Debug\net6.0-windows\WeatherApp.AppWeather.resources
+D:\C# Labs\9\lab092\obj\Debug\net6.0-windows\lab092.csproj.GenerateResource.cache
+D:\C# Labs\9\lab092\obj\Debug\net6.0-windows\lab092.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Labs\9\lab092\obj\Debug\net6.0-windows\lab092.AssemblyInfoInputs.cache
+D:\C# Labs\9\lab092\obj\Debug\net6.0-windows\lab092.AssemblyInfo.cs
+D:\C# Labs\9\lab092\obj\Debug\net6.0-windows\lab092.csproj.CoreCompileInputs.cache
+D:\C# Labs\9\lab092\obj\Debug\net6.0-windows\lab092.dll
+D:\C# Labs\9\lab092\obj\Debug\net6.0-windows\refint\lab092.dll
+D:\C# Labs\9\lab092\obj\Debug\net6.0-windows\lab092.pdb
+D:\C# Labs\9\lab092\obj\Debug\net6.0-windows\lab092.genruntimeconfig.cache
+D:\C# Labs\9\lab092\obj\Debug\net6.0-windows\ref\lab092.dll

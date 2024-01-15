@@ -1,0 +1,44 @@
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\bin\Debug\net6.0\lab091.exe
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\bin\Debug\net6.0\lab091.deps.json
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\bin\Debug\net6.0\lab091.runtimeconfig.json
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\bin\Debug\net6.0\lab091.dll
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\bin\Debug\net6.0\lab091.pdb
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\bin\Debug\net6.0\FileIO.dll
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\bin\Debug\net6.0\RestSharp.dll
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\obj\Debug\net6.0\lab091.csproj.AssemblyReference.cache
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\obj\Debug\net6.0\lab091.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\obj\Debug\net6.0\lab091.AssemblyInfoInputs.cache
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\obj\Debug\net6.0\lab091.AssemblyInfo.cs
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\obj\Debug\net6.0\lab091.csproj.CoreCompileInputs.cache
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\obj\Debug\net6.0\lab091.csproj.CopyComplete
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\obj\Debug\net6.0\lab091.dll
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\obj\Debug\net6.0\refint\lab091.dll
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\obj\Debug\net6.0\lab091.pdb
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\obj\Debug\net6.0\lab091.genruntimeconfig.cache
+C:\Users\gbort\Source\Repos\C-lab-09\lab091\obj\Debug\net6.0\ref\lab091.dll
+D:\C# Labs\9\lab091\bin\Debug\net6.0\lab091.exe
+D:\C# Labs\9\lab091\bin\Debug\net6.0\lab091.deps.json
+D:\C# Labs\9\lab091\bin\Debug\net6.0\lab091.runtimeconfig.json
+D:\C# Labs\9\lab091\bin\Debug\net6.0\lab091.dll
+D:\C# Labs\9\lab091\bin\Debug\net6.0\lab091.pdb
+D:\C# Labs\9\lab091\bin\Debug\net6.0\FileIO.dll
+D:\C# Labs\9\lab091\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\C# Labs\9\lab091\bin\Debug\net6.0\RestSharp.dll
+D:\C# Labs\9\lab091\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\C# Labs\9\lab091\bin\Debug\net6.0\System.Text.Json.dll
+D:\C# Labs\9\lab091\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\C# Labs\9\lab091\obj\Debug\net6.0\lab091.csproj.AssemblyReference.cache
+D:\C# Labs\9\lab091\obj\Debug\net6.0\lab091.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Labs\9\lab091\obj\Debug\net6.0\lab091.AssemblyInfoInputs.cache
+D:\C# Labs\9\lab091\obj\Debug\net6.0\lab091.AssemblyInfo.cs
+D:\C# Labs\9\lab091\obj\Debug\net6.0\lab091.csproj.CoreCompileInputs.cache
+D:\C# Labs\9\lab091\obj\Debug\net6.0\lab091.csproj.CopyComplete
+D:\C# Labs\9\lab091\obj\Debug\net6.0\lab091.dll
+D:\C# Labs\9\lab091\obj\Debug\net6.0\refint\lab091.dll
+D:\C# Labs\9\lab091\obj\Debug\net6.0\lab091.pdb
+D:\C# Labs\9\lab091\obj\Debug\net6.0\lab091.genruntimeconfig.cache
+D:\C# Labs\9\lab091\obj\Debug\net6.0\ref\lab091.dll
